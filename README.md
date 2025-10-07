@@ -93,7 +93,7 @@ O desafio deste projeto é desenvolver um sistema de NeoCall inteligente, que pe
 - Testes finais, refatoração do código e documentação do sistema completo
 
 ## 📅 Cronograma de Evolucão do Projeto
- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6dd3da98-a29e-466c-aa5d-81014fdf8639" />
+ https://github.com/igormarcondes27/Projeto-Nell-Call/blob/b6aa103c84c536b427611c416512b9b94b2beaf3/Neocall.png
  
  Tabela das Sprints - Sistema NeoCAll Inteligente (Baseado no Diagrama)
 Sprint	Período (2025)	Objetivos	Entregas	Documentação
