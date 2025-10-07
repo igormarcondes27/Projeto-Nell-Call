@@ -29,3 +29,17 @@
 * Modularidade e Sistema integrado.
 
 ---
+
+
+# Casos de Uso
+[Casos de Uso]<img width="1536" height="785" alt="UseCase Diagram1" src="https://github.com/user-attachments/assets/71981944-1b43-4011-ad3c-5ea092f76702" />
+
+O diagrama acima representa os principais fluxos do sistema HelpDesk Inteligente e os diferentes papéis de usuários:
+
+Cliente: pode autenticar-se via login, abrir chamados, editar chamados, acompanhar o andamento, e encerrar chamados quando resolvidos.
+
+Administrador (Admin): possui permissões para encerrar chamados e gerar relatórios do sistema.
+
+Colaborador: pode receber sugestões de soluções frequentes feitas pela IA e devolver a solução do chamado ao cliente.
+
+---
