@@ -106,4 +106,35 @@ Entrega Final	24/05	Entrega da versão 1.0 com todas funcionalidades integradas	
 
 
   ---
+
+  
+## 🛠️ Tecnologias Utilizadas
+- *Linguagem:* C#  
+- *Frameworks:* ASP.NET Core, Entity Framework  
+- *Banco de Dados:* SQL Server  
+- *Ferramentas de Apoio:* Figma (prototipagem) e Astah (modelagem de diagramas)
+
+---
+## 🖥️ Como Utilizar
+
+O *NeoCall Inteligente* permite:  
+- *Usuário:* criar conta, abrir chamados, acompanhar e encerrar chamados.  
+- *Técnico:* visualizar, classificar, atualizar e fechar chamados.  
+- *Administrador:* gerenciar usuários, permissões e acompanhar métricas.  
+
+---
+
+## 🚀 Como Executar Localmente
+
+```bash
+# clone o repositório
+git clone https://github.com/seu-repo.git
+cd helpdesk-inteligente
+
+# restaure pacotes e crie o banco
+dotnet restore
+dotnet ef database update
+
+# rode o projeto
+dotnet run
   
