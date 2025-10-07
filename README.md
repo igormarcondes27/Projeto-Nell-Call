@@ -32,7 +32,7 @@
 
 
 # Casos de Uso
-[Casos de Uso]<img width="1536" height="785" alt="UseCase Diagram1" src="https://github.com/user-attachments/assets/71981944-1b43-4011-ad3c-5ea092f76702" />
+https://github.com/igormarcondes27/Projeto-Nell-Call/blob/14ab77c4adc9b12e89b36b07d66aba45c9ea0fe6/caso%20de%20uso.png
 
 O diagrama acima representa os principais fluxos do sistema NeoCall Inteligente e os diferentes papéis de usuários:
 
