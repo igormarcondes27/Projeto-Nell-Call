@@ -1,10 +1,10 @@
-# 📌 HelpDesk Inteligente
+# 📌 Neo call
 
 ## 👤 Dev do Projeto
 
 | Nome do Aluno        | RA       | Turma   |
 |-----------------------|----------|---------|
-| Vinícius Gobis Novo   | G967BG0  | DS4P48  |
+| Igor Oliveira MArcondes | R080CD5  | DS4R48  |
 
 ## Status do Projeto 📊
 
@@ -12,7 +12,7 @@
 
 | Projeto          | Status        |
 |------------------|---------------|
-| Sistema HelpDesk | 🟡 Em andamento |
+| Sistema NeoCall | 🟡 Em andamento |
 
 ---
 
@@ -56,7 +56,7 @@
 ---
 ## 🖥️ Como Utilizar
 
-O *HelpDesk Inteligente* permite:  
+O *Neo Call* permite:  
 - *Usuário:* criar conta, abrir chamados, acompanhar e encerrar chamados.  
 - *Técnico:* visualizar, classificar, atualizar e fechar chamados.  
 - *Administrador:* gerenciar usuários, permissões e acompanhar métricas.  
