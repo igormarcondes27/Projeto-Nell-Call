@@ -24,14 +24,6 @@
 # Casos de Uso
 [Diagrama](./caso%20de%20uso.png)
 
-O diagrama acima representa os principais fluxos do sistema HelpDesk Inteligente e os diferentes papéis de usuários:
-
-Cliente: pode autenticar-se via login, abrir chamados, editar chamados, acompanhar o andamento, e encerrar chamados quando resolvidos.
-
-Administrador (Admin): possui permissões para encerrar chamados e gerar relatórios do sistema.
-
-Colaborador: pode receber sugestões de soluções frequentes feitas pela IA e devolver a solução do chamado ao cliente.
-
 ---
 
 # 🎯 Desafio do Projeto
