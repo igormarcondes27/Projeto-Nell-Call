@@ -57,17 +57,8 @@
 
 ## 🚀 Como Executar Localmente
 
-```bash
-# clone o repositório
-git clone https://github.com/seu-repo.git
-cd helpdesk-inteligente
+[Execuçãp](./Execução.md)
 
-# restaure pacotes e crie o banco
-dotnet restore
-dotnet ef database update
-
-# rode o projeto
-dotnet run
 
 
   
