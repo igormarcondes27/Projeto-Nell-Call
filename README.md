@@ -39,7 +39,7 @@
 
  ## 📅 Cronograma de Evolucão do Projeto
 
-[Cronograma](.Cronograma#20de#20evolução#20do#20projeto.png)
+[Cronograma](./Cronograma#20de#20evolução#20do#20projeto.png)
 
  ---
   
