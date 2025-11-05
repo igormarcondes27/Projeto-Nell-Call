@@ -22,7 +22,7 @@
 ---
 
 # Casos de Uso
-[Casos de Uso]<img width="1536" height="785" alt="UseCase Diagram1" src="https://github.com/user-attachments/assets/71981944-1b43-4011-ad3c-5ea092f76702" />
+[Diagrama](./caso%20de%20uso.png)
 
 O diagrama acima representa os principais fluxos do sistema HelpDesk Inteligente e os diferentes papéis de usuários:
 
