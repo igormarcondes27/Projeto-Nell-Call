@@ -38,8 +38,9 @@
 
 
  ## 📅 Cronograma de Evolucão do Projeto
- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6dd3da98-a29e-466c-aa5d-81014fdf8639" />
- 
+
+[Cronograma](.Cronograma#20de#20evolução#20do#20projeto.png)
+
  Tabela das Sprints - Sistema NeoCAll Inteligente (Baseado no Diagrama)
 Sprint	Período (2025)	Objetivos	Entregas	Documentação
 Sprint 1 — Infraestrutura e Segurança	10/02 – 23/02	Configuração do ambiente, banco de dados, arquitetura modular e segurança inicial (login e verificação de conta)	Ambiente dev configurado, SQL Server, arquitetura com papéis Cliente, Admin, Colaborador e IA, criptografia e login com verificação de conta	
