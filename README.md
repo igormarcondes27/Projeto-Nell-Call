@@ -41,18 +41,7 @@
 
 [Cronograma](.Cronograma#20de#20evolução#20do#20projeto.png)
 
-
- Tabela das Sprints - Sistema NeoCAll Inteligente (Baseado no Diagrama)
-Sprint	Período (2025)	Objetivos	Entregas	Documentação
-Sprint 1 — Infraestrutura e Segurança	10/02 – 23/02	Configuração do ambiente, banco de dados, arquitetura modular e segurança inicial (login e verificação de conta)	Ambiente dev configurado, SQL Server, arquitetura com papéis Cliente, Admin, Colaborador e IA, criptografia e login com verificação de conta	
-Sprint 2 — Cadastro e Autenticação	24/02 – 09/03	Cadastro de usuários e autenticação com níveis de acesso diferenciados para Cliente, Admin e Colaborador	CRUD de usuários, login/logout com níveis de acesso, testes iniciais	
-Sprint 3 — Gestão de Chamados (Cliente/Admin)	10/03 – 23/03	Funcionalidades para Cliente abrir, editar e encerrar chamados; Admin encerrar chamados e gerar relatórios	Formulário de abertura e edição de chamados, funcionalidades de encerramento e geração de relatórios para Admin	
-Sprint 4 — Sugestões Inteligentes via IA	24/03 – 06/04	Treinamento da IA para sugerir soluções frequentes; implementação da interação Colaborador-IA	Modelo treinado, sistema de sugestões frequentes para Colaboradores, testes do fluxo de soluções	
-Sprint 5 — Finalizações e Segurança Avançada	07/04 – 20/04	Refinamento da segurança, ajustes na arquitetura e modularidade, testes finais e documentação	Melhorias em segurança, ajustes na arquitetura, testes finais, documentação completa	
-Entrega Final	24/05	Entrega da versão 1.0 com todas funcionalidades integradas	Sistema completo, documentação e apresentação final
-
-
-  ---
+ ---
   
 ## 🛠️ Tecnologias Utilizadas
 - *Linguagem:* C#  
